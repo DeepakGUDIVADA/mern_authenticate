@@ -1,0 +1,1 @@
+manual create index.js,.env  and change start in package.json,client is belongs to react js
